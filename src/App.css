@@ -1,0 +1,24 @@
+
+body{
+  background-color: lightblue;
+}
+.app-bg{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.712), 0deg, rgba(0, 0, 0, 0.561));
+  background-image: url(./bg.jfif);
+  height: 70vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.side-bg{
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.temp{
+  font-size: 4rem;
+}
+
+.font-big{
+  font-size: 1.3rem;
+}
+
